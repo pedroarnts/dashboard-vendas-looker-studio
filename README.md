@@ -3,7 +3,7 @@
 **Relatório interativo:** https://datastudio.google.com/s/hPE0Qv6P014
 
 ## O que o painel mostra
-
+![Painel de vendas](images/dashboard.png)
 - **Scorecards:** vendas totais, lucro total e margem geral do período.
 - **Tabela:** vendas e lucro por categoria.
 - **Série temporal:** vendas por mês, de janeiro de 2011 a dezembro de 2014.
